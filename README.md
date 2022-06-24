@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Shopping Cart
 
 # [Live](https://shopping-cart-theta-one.vercel.app/cart)
 
