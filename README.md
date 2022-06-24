@@ -1,6 +1,6 @@
 # Shopping Cart
 
-# [Live](https://shopping-cart-theta-one.vercel.app/cart)
+# [Live](https://shopping-cart-theta-one.vercel.app)
 
 During the making of this project, I learned more about useContext and Router.
 
